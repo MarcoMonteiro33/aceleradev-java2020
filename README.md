@@ -6,6 +6,8 @@ Repositório com as implementações dos desafios do Acelera Dev Java!
 
 Desafios:
 
-# Fibonacci
-# Criptografia de Júlio César
-# Calculadora de Salário Líquido
+ --> Fibonacci
+
+ --> Criptografia de Júlio César
+
+ --> Calculadora de Salário Líquido
